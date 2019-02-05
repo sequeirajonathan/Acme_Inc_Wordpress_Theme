@@ -20,16 +20,15 @@
   </div>
 </div>
 
-<div class="ui two column doubling stackable grid container">
+<div class="ui two column doubling  grid container">
     <div class="column">
-        <img src="http://localhost/wordpress/wp-content/uploads/2019/02/iphone.jpg" alt="Iphone">
+    <img class="ui medium rounded image" src="http://localhost/wordpress/wp-content/uploads/2019/02/iphone.jpg" alt="Iphone"/>
         <div class="ui labeled button" tabindex="0">
             <div class="ui red button">
                 <i class="heart icon"></i>Like</div>
             <a class="ui basic red left pointing label">1,048</a>
         </div>
-        <button class="ui green button ">Buy Now</button>
-        <a class="ui teal tag label">Only $900.00!!</a>
+
     </div>
     <div class="column">
         <p>The innovative solution in the iPhone was to remove the traditional
@@ -39,6 +38,8 @@
             off when brought near the ear (proximity sensor) and a 3.5 in display, with
             320 x 480 pixels definition, that automatically adjust the screen to the
             device's orientation.</p>
+            <button class="ui green button ">Buy Now</button>
+            <a class="ui teal tag label">Only $900.00!!</a>
     </div>
 </div>
 
